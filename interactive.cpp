@@ -1,3 +1,8 @@
+/*
+  Sample problem : there is a hidden array of N integers. The length is odd. There is a number which appears maximum times in the array. Guess any index with
+  the of the array where the number is present in no more than N/2 query.
+*/
+
 struct Interactor{
     vector<int> arr;
     int n;
